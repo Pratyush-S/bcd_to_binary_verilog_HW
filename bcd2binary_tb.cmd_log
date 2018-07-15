@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim bcd2binary_tb.ngc bcd2binary_tb_synthesis.v 
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
+xst -intstyle ise -ifn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.xst" -ofn "X:/GITHUB/bcdbinaryconversions/bcd2binary_tb.syr" 
